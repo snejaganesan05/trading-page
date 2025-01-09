@@ -1,0 +1,112 @@
+.logo-img {
+  width: 25%;
+}
+.second-container {
+  padding-top: 200px;
+  padding-left: 150px;
+  color: #beb9b0;
+  /* display: flex;
+    flex-direction: start;
+    justify-content: center; */
+  padding-bottom: 100px;
+  width: 80%;
+  margin: auto;
+}
+.signup-image {
+  width: 40%;
+  position: absolute;
+}
+.signup {
+  width: 30%;
+  padding-top: 10px;
+  /* margin-bottom: 40px; */
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  background-color: rgb(37, 94, 161);
+  border: none;
+  border-radius: 5px;
+  font-size: 19px;
+  align-content: center;
+  font: bold;
+  /* margin-top: 35px; */
+  font-weight: 500;
+}
+.signup-content {
+  padding-left: 150px;
+  position: relative;
+  padding-left: 700px;
+}
+.third-container {
+  padding-top: 150px;
+}
+.info {
+  font: 10px;
+}
+/* bottom bar */
+.seventh-box {
+    border: 1px solid gray;
+    padding-top: 25px;
+    border-right: none;
+    border-left: none;
+    border-bottom: none;
+    background-color: #1a1c1e;
+    padding-bottom: 40px;
+  }
+  .zer {
+    width: 35%;
+    padding-bottom: 20px;
+  }
+  .seventh-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: #beb9b0;
+    padding-left: 80px;
+  }
+  .social-tag {
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .seventh-one {
+    width: 20%;
+  }
+  .social-tag-one {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .seventh-two {
+    font-size: 16px;
+  }
+  .seventh-three {
+    font-size: 16px;
+  }
+  
+  .seventh-four {
+    padding-right: 30px;
+    font-size: 16px;
+  }
+  .seventh-header {
+    color: #beb9b0;
+  }
+  .seventh-five {
+    width: 90%;
+    font-size: 12px;
+    color: gray;
+    padding-left: 80px;
+    padding-top: 50px;
+    margin: auto;
+  }
+  .eigth-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    background-color: #1a1c1e;
+    padding: 10px;
+  }
+  .topic-one:hover {
+    color: rgb(37, 94, 161);
+    text-decoration: underline;
+  }
